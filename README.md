@@ -1,4 +1,4 @@
 Crypto
 ======
 
-Various useful cryptography implementations
+Few cryptography implementations
